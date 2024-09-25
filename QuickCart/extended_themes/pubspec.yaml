@@ -1,0 +1,39 @@
+name: extended_themes
+description: "A theme library for general use."
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+  flutter: '>=3.3.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  plugin_platform_interface: ^2.0.2
+  auto_animated: ^3.2.0
+  cached_network_image: ^3.2.3
+  equatable: ^2.0.5
+  google_fonts: ^6.2.1
+  flutter_spinkit: ^5.2.1
+  flutter_svg: ^2.0.10+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+
+flutter:
+
+  plugin:
+    platforms:
+      android:
+        package: com.themes.extended_themes
+        pluginClass: ExtendedThemesPlugin
+      ios:
+        pluginClass: ExtendedThemesPlugin
+
+  assets:
+    - assets/images/
+    - assets/icons/

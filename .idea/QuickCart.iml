@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/QuickCart/extended_themes/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/QuickCart/extended_themes/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/QuickCart/extended_themes/build" />
+      <excludeFolder url="file://$MODULE_DIR$/QuickCart/extended_themes/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/QuickCart/extended_themes/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/QuickCart/extended_themes/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/QuickCart/quickcart_user/build" />
+      <excludeFolder url="file://$MODULE_DIR$/QuickCart/quickcart_user/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/QuickCart/quickcart_user/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/QuickCart/quickcart_resto/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/QuickCart/quickcart_resto/build" />
+      <excludeFolder url="file://$MODULE_DIR$/QuickCart/quickcart_resto/.pub" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+  </component>
+</module>

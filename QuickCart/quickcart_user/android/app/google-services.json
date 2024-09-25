@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "730352069421",
+    "project_id": "quickcart-7086c",
+    "storage_bucket": "quickcart-7086c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730352069421:android:db606aa93b3f022a1e41a4",
+        "android_client_info": {
+          "package_name": "com.quickcart.resto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730352069421-8rvurnad2dr05app8kb49fachg4ttn4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbDAQPb0sZly6QolOfEZeVVsv6DqarpZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730352069421-8rvurnad2dr05app8kb49fachg4ttn4j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "730352069421-od9sccr99257io7oc0gqst52gfpk6d1j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.quickcart.resto.quickcartResto"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730352069421:android:cfd0e029a57dbe221e41a4",
+        "android_client_info": {
+          "package_name": "com.quickcart.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730352069421-c2h0cukaln56ju4klf058pr6jraatm4k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quickcart.user",
+            "certificate_hash": "a076e5366d1b333a9b89459f762e4892f00d384c"
+          }
+        },
+        {
+          "client_id": "730352069421-cv841v87ql6qgtqr00doa62ibed2llmv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quickcart.user",
+            "certificate_hash": "78e09df2eab3680fb9f233100a891fc0610207ab"
+          }
+        },
+        {
+          "client_id": "730352069421-8rvurnad2dr05app8kb49fachg4ttn4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbDAQPb0sZly6QolOfEZeVVsv6DqarpZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730352069421-8rvurnad2dr05app8kb49fachg4ttn4j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "730352069421-od9sccr99257io7oc0gqst52gfpk6d1j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.quickcart.resto.quickcartResto"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
